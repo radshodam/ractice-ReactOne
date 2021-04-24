@@ -1,0 +1,17 @@
+.FooterBackground {
+  background-color: rgb(74, 73, 73);
+  padding: 17px 43px;
+  text-align: start;
+  color: silver;
+}
+
+.Par{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    width: 50%;
+    margin: 0 auto;
+    
+
+}
